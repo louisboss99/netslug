@@ -1,0 +1,2 @@
+# netslug
+just netslug compiled
